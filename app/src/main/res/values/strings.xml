@@ -6,6 +6,8 @@
         <item>Green</item>
         <item>Blue</item>
 
+
+
     </string-array>
     <string-array name="array_operators">
         <item>+</item>
@@ -24,4 +26,11 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="classes">
+        <item>JAVA   9:00AM-11:00AM</item>
+        <item>OS     11:00AM-1:00PM</item>
+        <item>BEFA   2:00PM-3:00PM</item>
+        <item>DBMS   3:00PM-4:00PM</item>
+    </string-array>
 </resources>

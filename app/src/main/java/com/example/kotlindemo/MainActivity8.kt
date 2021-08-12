@@ -14,7 +14,6 @@ class MainActivity8 : AppCompatActivity() {
         val act_online_class = findViewById<TextView>(R.id.act_online_class)
 
         act_online_class.setOnClickListener(View.OnClickListener {
-            //Toast.makeText(this,"HELLO World",Toast.LENGTH_LONG).show()
 
             val intent = Intent(this,BranchActivity::class.java)
             startActivity(intent)
